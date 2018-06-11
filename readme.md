@@ -1,4 +1,4 @@
-//Text
-This is a message...
-
--Some Dude 2018
+-This script creates a variable to watch a file for any changes.
+-A function created and assigned ot a variable called "print" which returns text along with the functions's argument.
+-file.watch is created to watch for any changed in the "readme.md" file.
+-file.watch then console logs a string whenever it notices a change in the "readme.md" file.
